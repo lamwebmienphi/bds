@@ -1,4 +1,4 @@
-#Chân Dung Nhà Môi Giới Bất Động Sản Chuyên Nghiệp
+# Chân Dung Nhà Môi Giới Bất Động Sản Chuyên Nghiệp
 
 
     Giới thiệu về môi giới bất động sản
@@ -12,7 +12,7 @@
     Kết luận
 
  
-##1. Giới thiệu:
+## 1. Giới thiệu:
 
 Trong bối cảnh hiện nay, sự gia tăng dân số cùng tốc độ đô thị hóa chóng mặt tất yếu đã dẫn đến việc nhu cầu nhà ở của người dân và cơ sở hạ tầng cho các công ty kinh doanh trở thành vấn đề cấp bách. Chính vì vậy, dịch vụ môi giới bất động sản chiếm một vị trí ngày càng quan trọng trong cơ cấu các ngành dịch vụ ở nước ta.
 
@@ -36,7 +36,7 @@ Theo thống kê chưa đầy đủ, cả nước hiện có 155 tổ chức ho�
 
 Tuy nhiên trong thời buổi hiện tại để cung cấp dịch vụ môi giới bất động sản chuyên nghiệp không phải dễ, nó đòi hỏi người môi giới phải có những kỹ năng và kiến thức nhất định. Đó là lý do tại sao Chí Phủ đã ban hành Luật và nghị định hường dẫn về Kinh Doanh Bất Động sản, nhằm chính quy hóa, hiện đại hóa nghành bất động sản của Việt Nam còn non trẻ đi vào nề nếp.
 
-##2. Kiến thức về môi giới bất động sản:
+## 2. Kiến thức về môi giới bất động sản:
 
 Cũng giống như môi giới trong các lĩnh vực khác, công việc của nhà môi giới bất động sản là giúp người mua đến với người bán. Nhà môi giới có trong tay thông tin về bất động sản, về các dự án được qui hoạch, một khi người mua có nhu cầu, chúng ta sẽ cung cấp những thông tin ấy, và chịu trách nhiệm liên hệ với  những người đại diện bên chủ sở hữu.
 
@@ -46,7 +46,7 @@ Nhà môi giới bất động sản chuyên nghiệp cung cấp giải pháp ch
 
 Bên cạnh đó nhà môi giới phải có kế hoạch hàng động rõ ràng, cần thực hiện những bước nào để có thể hoàn thành công việc và nhiệm vụ.  Làm thế nào đó đảm bảo tốt nhất quyền lợi của các bên cả khách hàng và chủ nhà.
 
-##3. Nắm rõ thông tin bất động sản trong khu vực hoạt động:
+## 3. Nắm rõ thông tin bất động sản trong khu vực hoạt động:
 
       Nhà môi giới bất động sản chuyên nghiệp có kiến thức vững chắc về dự án, chủ đầu tư, giá cả thị trường trong khu vực hoạt động của mình. Thông tin có thể thu tập qua báo, đài, hội thảo, hiệp hội bất động sản, kinh nghiệm thương trường… đây là nguồn thông tin cơ bản và cần thiết khi tư vấn cho khách hàng.
 
@@ -54,7 +54,7 @@ Bên cạnh đó nhà môi giới phải có kế hoạch hàng động rõ ràn
 
 Cần nắm rõ giá cả từng loại bất động sản và từng thời điển giá cả lên xuống của thị trường. Khi tư vấn cho khách hàng, tùy vào nhu cầu của khách hàng muốn tìm mua bất động sản ở khu vực nào thì chúng ta có nói ngay về giá khu vực đó hiện nay bao nhiêu, còn nhiều sản phẩm để bán không, nên mua ngay hay chờ một thời gian nữa chờ dự án khác mới ra tốt hơn giá mềm hơn…
 
-##4. Kiến thức Sales & Marketing:
+## 4. Kiến thức Sales & Marketing:
 
 Cho dù với bất kỳ loại hình bất động sản nào thì người môi giới cần phải biết rõ các nhu cầu của khách hàng trước một thương vụ mua bán. Trước khi dẫn người mua đến xem một địa chỉ bất động sản, người môi giới thường phải tiếp xúc với khách hàng một số lần để nắm rõ nhu cầu, thị hiếu của khách hàng cũng cần xác định rõ khả năng tài chính của khách. Đây có thể coi là giai đoạn tiền khả thi cho một giao dịch và người môi giới. Người môi giới sẽ niêm yết một danh sách các ngôi nhà bán, vị trí và mô tả chi tiết, và một điểm rất quan trọng - là các nguồn hỗ trợ tín dụng cần thiết cho khách hàng.
 
@@ -68,13 +68,13 @@ Quảng cáo có thể trên báo, trên dài, trên truyền hình, tạp chí,
 
 Phải biết lúc nào là kết thúc thương vụ là hợp lý nhất, nếu chúng ta sai lầm trong bước quyết định này có thể dẫn đến thất bại trong bán hàng.
 
-##5. Kiến thức về pháp luật:
+## 5. Kiến thức về pháp luật:
 
 Để trở thành nhà môi giới chuyên nghiệp thì chúng ta luôn cập nhật các quy định liên quan đến bất động sản vì yếu tố pháp lý ở nước ta luôn thay đổi và điều chỉnh, cũng là nguyên nhân khiến cho một số người không chuyên khó mà có thể cạnh tranh được với các công ty làm ăn bài bản và chuyên nghiệp.
 
       Chúng ta không những thông thạo luật Kinh doanh bất động sản không thôi mà còn phải biết về luật Nhà ở, Luật dân sự, luật Đầu tư, các Nghị định hường dẫn thi hành các luật này để thực hiện công việc môi giới một cách chính xác, đúng luật và chuyên nghiệp.
 
-##6. Kiến thức về công nghệ thông tin:
+## 6. Kiến thức về công nghệ thông tin:
 
       Thế kỹ 21 đã tạo ra cuộc cách mạng về thông tin và truyền thông đã tạo điều kiện cho những nhà môi giới bất động sản phát huy khả năng và tính chuyên nghiệp trong công việc.
 
@@ -82,7 +82,7 @@ Phải biết lúc nào là kết thúc thương vụ là hợp lý nhất, nế
 
       Bên cạnh đó nhà môi giới chuyên nghiệp cần phải có những công cụ, thiết bị kỹ thuật số để hổ trợ trong công việc như: máy vi tính xách tay, máy ảnh số, điện thoại bàn, điện thoại di động.
 
-##7. Khả năng ngoại ngữ:
+## 7. Khả năng ngoại ngữ:
 
       Việt nam ta đã gia nhập WTO cơ hội cho các nhà đầu tư nước ngoài vào làm ăn sinh sống tại Việt Nam, đây là cơ hội cho các nhà môi giới trong lĩnh vực cho thuê/bán bất động sản phát triển mạnh hơn. Đây là cơ hội và cũng là thách thức nếu những nhà môi giới không biết sử dụng ngoại ngữ đặc biệt là tiếng Anh. Cơ hội sẽ đến và đi rất nhanh nếu chúng ta không giao tiếp được tiếng Anh.
 
@@ -90,7 +90,7 @@ Phải biết lúc nào là kết thúc thương vụ là hợp lý nhất, nế
 
       Nên việc thông thạo ngoại ngữ là một yếu tố không thể thiếu đối nhà môi giới bất động sản chuyên nghiệp trong giai đoạn hiện nay và trong tương lai.
 
-##8. Đạo đức nghề nghiệp:
+## 8. Đạo đức nghề nghiệp:
 
 Ngoài ra người môi giới thường có tính cách dễ chịu, trung thực, và một bề ngoài tin cậy. Chín chắn, có đánh giá, nhận định đúng, đáng tin cậy, và nhiệt tình trong công việc là yêu cầu hàng đầu. Vì bất động sản là sản phẩm có giá trị rất cao nên người đại diện cần có biểu hiện thuyết phục nhất đối với khách hàng. Các nhà môi giới bất động sản cần có đầu óc tổ chức tốt, tỷ mỷ, và trí nhớ tốt (họ cần nhớ không chỉ tên, mặt của khách hàng mà cả những đặc điểm thị hiếu của khách hàng).
 
@@ -104,7 +104,7 @@ Thêm vào đó, các thông tin về quy hoạch, sử dụng đất, cũng nh�
 
 Để trở thành nhà môi giới bất động sản chuyên nghiệp chúng ta nên tránh những yếu tố vi phạm đạo đức nghề nghiệp nêu trên, và hoạt động môi giới phải dựa trên sự công bằng và minh bạch về thông tin, đồng thời phải coi đạo đức nghề nghiệp là kim chỉ nam, là sợi chỉ đỏ xuyên suốt trong tòa bộ quá trình tác nghiệp.
 
-##9. Kết luận:
+## 9. Kết luận:
 
 Nghề môi giới bất động sản là nghề khá "nhạy cảm" với biến động của thị truờng, đặc biệt các biến động liên quan đến tỷ giá. Khi hoạt động kinh tế suy giảm và tỷ giá tăng, số giao dịch về bất động sản đương nhiên sẽ giảm xuống.
 
